@@ -1,0 +1,670 @@
+========================================
+Midiendo nivel: 0 cm
+========================================
+Muestra 1/30 - Valor ADC: 0 | Voltaje: 0.1420 V
+Muestra 2/30 - Valor ADC: 719 | Voltaje: 0.7214 V
+Muestra 3/30 - Valor ADC: 710 | Voltaje: 0.7142 V
+Muestra 4/30 - Valor ADC: 706 | Voltaje: 0.7109 V
+Muestra 5/30 - Valor ADC: 742 | Voltaje: 0.7399 V
+Muestra 6/30 - Valor ADC: 727 | Voltaje: 0.7279 V
+Muestra 7/30 - Valor ADC: 717 | Voltaje: 0.7198 V
+Muestra 8/30 - Valor ADC: 701 | Voltaje: 0.7069 V
+Muestra 9/30 - Valor ADC: 723 | Voltaje: 0.7246 V
+Muestra 10/30 - Valor ADC: 725 | Voltaje: 0.7262 V
+Muestra 11/30 - Valor ADC: 743 | Voltaje: 0.7408 V
+Muestra 12/30 - Valor ADC: 718 | Voltaje: 0.7206 V
+Muestra 13/30 - Valor ADC: 704 | Voltaje: 0.7093 V
+Muestra 14/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 15/30 - Valor ADC: 712 | Voltaje: 0.7158 V
+Muestra 16/30 - Valor ADC: 693 | Voltaje: 0.7005 V
+Muestra 17/30 - Valor ADC: 705 | Voltaje: 0.7101 V
+Muestra 18/30 - Valor ADC: 740 | Voltaje: 0.7383 V
+Muestra 19/30 - Valor ADC: 697 | Voltaje: 0.7037 V
+Muestra 20/30 - Valor ADC: 721 | Voltaje: 0.7230 V
+Muestra 21/30 - Valor ADC: 715 | Voltaje: 0.7182 V
+Muestra 22/30 - Valor ADC: 732 | Voltaje: 0.7319 V
+Muestra 23/30 - Valor ADC: 706 | Voltaje: 0.7109 V
+Muestra 24/30 - Valor ADC: 722 | Voltaje: 0.7238 V
+Muestra 25/30 - Valor ADC: 719 | Voltaje: 0.7214 V
+Muestra 26/30 - Valor ADC: 710 | Voltaje: 0.7142 V
+Muestra 27/30 - Valor ADC: 747 | Voltaje: 0.7440 V
+Muestra 28/30 - Valor ADC: 742 | Voltaje: 0.7399 V
+Muestra 29/30 - Valor ADC: 707 | Voltaje: 0.7117 V
+Muestra 30/30 - Valor ADC: 703 | Voltaje: 0.7085 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 695.27 | Voltaje = 0.7023 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 1 cm
+
+========================================
+Midiendo nivel: 1 cm
+========================================
+Muestra 1/30 - Valor ADC: 790 | Voltaje: 0.7786 V
+Muestra 2/30 - Valor ADC: 767 | Voltaje: 0.7601 V
+Muestra 3/30 - Valor ADC: 813 | Voltaje: 0.7972 V
+Muestra 4/30 - Valor ADC: 768 | Voltaje: 0.7609 V
+Muestra 5/30 - Valor ADC: 782 | Voltaje: 0.7722 V
+Muestra 6/30 - Valor ADC: 791 | Voltaje: 0.7794 V
+Muestra 7/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 8/30 - Valor ADC: 782 | Voltaje: 0.7722 V
+Muestra 9/30 - Valor ADC: 791 | Voltaje: 0.7794 V
+Muestra 10/30 - Valor ADC: 797 | Voltaje: 0.7843 V
+Muestra 11/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 12/30 - Valor ADC: 768 | Voltaje: 0.7609 V
+Muestra 13/30 - Valor ADC: 793 | Voltaje: 0.7810 V
+Muestra 14/30 - Valor ADC: 795 | Voltaje: 0.7827 V
+Muestra 15/30 - Valor ADC: 772 | Voltaje: 0.7641 V
+Muestra 16/30 - Valor ADC: 777 | Voltaje: 0.7682 V
+Muestra 17/30 - Valor ADC: 781 | Voltaje: 0.7714 V
+Muestra 18/30 - Valor ADC: 791 | Voltaje: 0.7794 V
+Muestra 19/30 - Valor ADC: 810 | Voltaje: 0.7947 V
+Muestra 20/30 - Valor ADC: 768 | Voltaje: 0.7609 V
+Muestra 21/30 - Valor ADC: 784 | Voltaje: 0.7738 V
+Muestra 22/30 - Valor ADC: 759 | Voltaje: 0.7536 V
+Muestra 23/30 - Valor ADC: 768 | Voltaje: 0.7609 V
+Muestra 24/30 - Valor ADC: 783 | Voltaje: 0.7730 V
+Muestra 25/30 - Valor ADC: 784 | Voltaje: 0.7738 V
+Muestra 26/30 - Valor ADC: 785 | Voltaje: 0.7746 V
+Muestra 27/30 - Valor ADC: 800 | Voltaje: 0.7867 V
+Muestra 28/30 - Valor ADC: 790 | Voltaje: 0.7786 V
+Muestra 29/30 - Valor ADC: 795 | Voltaje: 0.7827 V
+Muestra 30/30 - Valor ADC: 771 | Voltaje: 0.7633 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 781.97 | Voltaje = 0.7722 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 2 cm
+
+========================================
+Midiendo nivel: 2 cm
+========================================
+Muestra 1/30 - Valor ADC: 809 | Voltaje: 0.7939 V
+Muestra 2/30 - Valor ADC: 842 | Voltaje: 0.8205 V
+Muestra 3/30 - Valor ADC: 784 | Voltaje: 0.7738 V
+Muestra 4/30 - Valor ADC: 819 | Voltaje: 0.8020 V
+Muestra 5/30 - Valor ADC: 825 | Voltaje: 0.8068 V
+Muestra 6/30 - Valor ADC: 812 | Voltaje: 0.7964 V
+Muestra 7/30 - Valor ADC: 816 | Voltaje: 0.7996 V
+Muestra 8/30 - Valor ADC: 818 | Voltaje: 0.8012 V
+Muestra 9/30 - Valor ADC: 829 | Voltaje: 0.8101 V
+Muestra 10/30 - Valor ADC: 827 | Voltaje: 0.8084 V
+Muestra 11/30 - Valor ADC: 813 | Voltaje: 0.7972 V
+Muestra 12/30 - Valor ADC: 813 | Voltaje: 0.7972 V
+Muestra 13/30 - Valor ADC: 795 | Voltaje: 0.7827 V
+Muestra 14/30 - Valor ADC: 827 | Voltaje: 0.8084 V
+Muestra 15/30 - Valor ADC: 780 | Voltaje: 0.7706 V
+Muestra 16/30 - Valor ADC: 829 | Voltaje: 0.8101 V
+Muestra 17/30 - Valor ADC: 825 | Voltaje: 0.8068 V
+Muestra 18/30 - Valor ADC: 813 | Voltaje: 0.7972 V
+Muestra 19/30 - Valor ADC: 827 | Voltaje: 0.8084 V
+Muestra 20/30 - Valor ADC: 817 | Voltaje: 0.8004 V
+Muestra 21/30 - Valor ADC: 847 | Voltaje: 0.8246 V
+Muestra 22/30 - Valor ADC: 818 | Voltaje: 0.8012 V
+Muestra 23/30 - Valor ADC: 838 | Voltaje: 0.8173 V
+Muestra 24/30 - Valor ADC: 826 | Voltaje: 0.8076 V
+Muestra 25/30 - Valor ADC: 808 | Voltaje: 0.7931 V
+Muestra 26/30 - Valor ADC: 811 | Voltaje: 0.7956 V
+Muestra 27/30 - Valor ADC: 817 | Voltaje: 0.8004 V
+                                                                stra 28/30 - Valor ADC: 806 | Voltaje: 0.7915 V
+Muestra 29/30 - Valor ADC: 861 | Voltaje: 0.8358 V
+Muestra 30/30 - Valor ADC: 813 | Voltaje: 0.7972 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 818.83 | Voltaje = 0.8019 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 3 cm
+
+========================================
+Midiendo nivel: 3 cm
+========================================
+Muestra 1/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 2/30 - Valor ADC: 833 | Voltaje: 0.8133 V
+Muestra 3/30 - Valor ADC: 836 | Voltaje: 0.8157 V
+Muestra 4/30 - Valor ADC: 837 | Voltaje: 0.8165 V
+Muestra 5/30 - Valor ADC: 851 | Voltaje: 0.8278 V
+Muestra 6/30 - Valor ADC: 857 | Voltaje: 0.8326 V
+Muestra 7/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 8/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 9/30 - Valor ADC: 822 | Voltaje: 0.8044 V
+Muestra 10/30 - Valor ADC: 837 | Voltaje: 0.8165 V
+Muestra 11/30 - Valor ADC: 862 | Voltaje: 0.8367 V
+Muestra 12/30 - Valor ADC: 842 | Voltaje: 0.8205 V
+Muestra 13/30 - Valor ADC: 827 | Voltaje: 0.8084 V
+Muestra 14/30 - Valor ADC: 837 | Voltaje: 0.8165 V
+Muestra 15/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 16/30 - Valor ADC: 831 | Voltaje: 0.8117 V
+Muestra 17/30 - Valor ADC: 839 | Voltaje: 0.8181 V
+Muestra 18/30 - Valor ADC: 847 | Voltaje: 0.8246 V
+Muestra 19/30 - Valor ADC: 862 | Voltaje: 0.8367 V
+Muestra 20/30 - Valor ADC: 816 | Voltaje: 0.7996 V
+Muestra 21/30 - Valor ADC: 823 | Voltaje: 0.8052 V
+Muestra 22/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 23/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 24/30 - Valor ADC: 865 | Voltaje: 0.8391 V
+Muestra 25/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 26/30 - Valor ADC: 822 | Voltaje: 0.8044 V
+Muestra 27/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 28/30 - Valor ADC: 830 | Voltaje: 0.8109 V
+Muestra 29/30 - Valor ADC: 833 | Voltaje: 0.8133 V
+Muestra 30/30 - Valor ADC: 841 | Voltaje: 0.8197 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 841.13 | Voltaje = 0.8198 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 4 cm
+
+========================================
+Midiendo nivel: 4 cm
+========================================
+Muestra 1/30 - Valor ADC: 837 | Voltaje: 0.8165 V
+Muestra 2/30 - Valor ADC: 899 | Voltaje: 0.8665 V
+Muestra 3/30 - Valor ADC: 851 | Voltaje: 0.8278 V
+Muestra 4/30 - Valor ADC: 879 | Voltaje: 0.8504 V
+Muestra 5/30 - Valor ADC: 874 | Voltaje: 0.8463 V
+Muestra 6/30 - Valor ADC: 874 | Voltaje: 0.8463 V
+Muestra 7/30 - Valor ADC: 874 | Voltaje: 0.8463 V
+Muestra 8/30 - Valor ADC: 893 | Voltaje: 0.8616 V
+Muestra 9/30 - Valor ADC: 909 | Voltaje: 0.8745 V
+Muestra 10/30 - Valor ADC: 876 | Voltaje: 0.8479 V
+Muestra 11/30 - Valor ADC: 847 | Voltaje: 0.8246 V
+Muestra 12/30 - Valor ADC: 879 | Voltaje: 0.8504 V
+Muestra 13/30 - Valor ADC: 877 | Voltaje: 0.8487 V
+Muestra 14/30 - Valor ADC: 896 | Voltaje: 0.8641 V
+Muestra 15/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 16/30 - Valor ADC: 889 | Voltaje: 0.8584 V
+Muestra 17/30 - Valor ADC: 866 | Voltaje: 0.8399 V
+Muestra 18/30 - Valor ADC: 899 | Voltaje: 0.8665 V
+Muestra 19/30 - Valor ADC: 853 | Voltaje: 0.8294 V
+Muestra 20/30 - Valor ADC: 863 | Voltaje: 0.8375 V
+Muestra 21/30 - Valor ADC: 887 | Voltaje: 0.8568 V
+Muestra 22/30 - Valor ADC: 885 | Voltaje: 0.8552 V
+Muestra 23/30 - Valor ADC: 878 | Voltaje: 0.8495 V
+Muestra 24/30 - Valor ADC: 889 | Voltaje: 0.8584 V
+Muestra 25/30 - Valor ADC: 867 | Voltaje: 0.8407 V
+Muestra 26/30 - Valor ADC: 893 | Voltaje: 0.8616 V
+Muestra 27/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 28/30 - Valor ADC: 880 | Voltaje: 0.8512 V
+Muestra 29/30 - Valor ADC: 847 | Voltaje: 0.8246 V
+Muestra 30/30 - Valor ADC: 847 | Voltaje: 0.8246 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 873.47 | Voltaje = 0.8459 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 5 cm
+
+========================================
+Midiendo nivel: 5 cm
+========================================
+Muestra 1/30 - Valor ADC: 915 | Voltaje: 0.8794 V
+Muestra 2/30 - Valor ADC: 941 | Voltaje: 0.9003 V
+Muestra 3/30 - Valor ADC: 886 | Voltaje: 0.8560 V
+Muestra 4/30 - Valor ADC: 912 | Voltaje: 0.8769 V
+Muestra 5/30 - Valor ADC: 926 | Voltaje: 0.8882 V
+Muestra 6/30 - Valor ADC: 927 | Voltaje: 0.8890 V
+Muestra 7/30 - Valor ADC: 912 | Voltaje: 0.8769 V
+Muestra 8/30 - Valor ADC: 958 | Voltaje: 0.9140 V
+Muestra 9/30 - Valor ADC: 918 | Voltaje: 0.8818 V
+Muestra 10/30 - Valor ADC: 935 | Voltaje: 0.8955 V
+Muestra 11/30 - Valor ADC: 938 | Voltaje: 0.8979 V
+Muestra 12/30 - Valor ADC: 927 | Voltaje: 0.8890 V
+Muestra 13/30 - Valor ADC: 938 | Voltaje: 0.8979 V
+Muestra 14/30 - Valor ADC: 933 | Voltaje: 0.8939 V
+Muestra 15/30 - Valor ADC: 950 | Voltaje: 0.9076 V
+Muestra 16/30 - Valor ADC: 934 | Voltaje: 0.8947 V
+Muestra 17/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 18/30 - Valor ADC: 928 | Voltaje: 0.8898 V
+Muestra 19/30 - Valor ADC: 930 | Voltaje: 0.8915 V
+Muestra 20/30 - Valor ADC: 896 | Voltaje: 0.8641 V
+Muestra 21/30 - Valor ADC: 881 | Voltaje: 0.8520 V
+Muestra 22/30 - Valor ADC: 950 | Voltaje: 0.9076 V
+Muestra 23/30 - Valor ADC: 931 | Voltaje: 0.8923 V
+Muestra 24/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 25/30 - Valor ADC: 928 | Voltaje: 0.8898 V
+Muestra 26/30 - Valor ADC: 892 | Voltaje: 0.8608 V
+Muestra 27/30 - Valor ADC: 925 | Voltaje: 0.8874 V
+Muestra 28/30 - Valor ADC: 943 | Voltaje: 0.9019 V
+Muestra 29/30 - Valor ADC: 913 | Voltaje: 0.8778 V
+Muestra 30/30 - Valor ADC: 914 | Voltaje: 0.8786 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 925.63 | Voltaje = 0.8879 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 6 cm
+
+========================================
+Midiendo nivel: 6 cm
+========================================
+Muestra 1/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 2/30 - Valor ADC: 974 | Voltaje: 0.9269 V
+Muestra 3/30 - Valor ADC: 960 | Voltaje: 0.9156 V
+Muestra 4/30 - Valor ADC: 961 | Voltaje: 0.9164 V
+Muestra 5/30 - Valor ADC: 976 | Voltaje: 0.9285 V
+Muestra 6/30 - Valor ADC: 990 | Voltaje: 0.9398 V
+Muestra 7/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 8/30 - Valor ADC: 968 | Voltaje: 0.9221 V
+Muestra 9/30 - Valor ADC: 978 | Voltaje: 0.9301 V
+Muestra 10/30 - Valor ADC: 981 | Voltaje: 0.9325 V
+Muestra 11/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 12/30 - Valor ADC: 975 | Voltaje: 0.9277 V
+Muestra 13/30 - Valor ADC: 949 | Voltaje: 0.9068 V
+Muestra 14/30 - Valor ADC: 985 | Voltaje: 0.9358 V
+Muestra 15/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 16/30 - Valor ADC: 943 | Voltaje: 0.9019 V
+Muestra 17/30 - Valor ADC: 976 | Voltaje: 0.9285 V
+Muestra 18/30 - Valor ADC: 976 | Voltaje: 0.9285 V
+Muestra 19/30 - Valor ADC: 986 | Voltaje: 0.9366 V
+Muestra 20/30 - Valor ADC: 946 | Voltaje: 0.9043 V
+Muestra 21/30 - Valor ADC: 987 | Voltaje: 0.9374 V
+Muestra 22/30 - Valor ADC: 958 | Voltaje: 0.9140 V
+Muestra 23/30 - Valor ADC: 955 | Voltaje: 0.9116 V
+Muestra 24/30 - Valor ADC: 965 | Voltaje: 0.9197 V
+Muestra 25/30 - Valor ADC: 992 | Voltaje: 0.9414 V
+Muestra 26/30 - Valor ADC: 947 | Voltaje: 0.9052 V
+Muestra 27/30 - Valor ADC: 943 | Voltaje: 0.9019 V
+Muestra 28/30 - Valor ADC: 965 | Voltaje: 0.9197 V
+Muestra 29/30 - Valor ADC: 977 | Voltaje: 0.9293 V
+Muestra 30/30 - Valor ADC: 978 | Voltaje: 0.9301 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 965.57 | Voltaje = 0.9201 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 7 cm
+
+========================================
+Midiendo nivel: 7 cm
+========================================
+Muestra 1/30 - Valor ADC: 1010 | Voltaje: 0.9559 V
+Muestra 2/30 - Valor ADC: 994 | Voltaje: 0.9430 V
+Muestra 3/30 - Valor ADC: 998 | Voltaje: 0.9462 V
+Muestra 4/30 - Valor ADC: 1043 | Voltaje: 0.9825 V
+Muestra 5/30 - Valor ADC: 1023 | Voltaje: 0.9664 V
+Muestra 6/30 - Valor ADC: 1039 | Voltaje: 0.9793 V
+Muestra 7/30 - Valor ADC: 1047 | Voltaje: 0.9857 V
+Muestra 8/30 - Valor ADC: 994 | Voltaje: 0.9430 V
+Muestra 9/30 - Valor ADC: 1009 | Voltaje: 0.9551 V
+Muestra 10/30 - Valor ADC: 989 | Voltaje: 0.9390 V
+Muestra 11/30 - Valor ADC: 994 | Voltaje: 0.9430 V
+Muestra 12/30 - Valor ADC: 1007 | Voltaje: 0.9535 V
+Muestra 13/30 - Valor ADC: 986 | Voltaje: 0.9366 V
+Muestra 14/30 - Valor ADC: 992 | Voltaje: 0.9414 V
+Muestra 15/30 - Valor ADC: 1003 | Voltaje: 0.9503 V
+Muestra 16/30 - Valor ADC: 1002 | Voltaje: 0.9495 V
+Muestra 17/30 - Valor ADC: 1006 | Voltaje: 0.9527 V
+Muestra 18/30 - Valor ADC: 1022 | Voltaje: 0.9656 V
+Muestra 19/30 - Valor ADC: 997 | Voltaje: 0.9454 V
+Muestra 20/30 - Valor ADC: 1009 | Voltaje: 0.9551 V
+Muestra 21/30 - Valor ADC: 991 | Voltaje: 0.9406 V
+Muestra 22/30 - Valor ADC: 1061 | Voltaje: 0.9970 V
+Muestra 23/30 - Valor ADC: 1022 | Voltaje: 0.9656 V
+Muestra 24/30 - Valor ADC: 1011 | Voltaje: 0.9567 V
+Muestra 25/30 - Valor ADC: 1017 | Voltaje: 0.9616 V
+Muestra 26/30 - Valor ADC: 1023 | Voltaje: 0.9664 V
+Muestra 27/30 - Valor ADC: 1008 | Voltaje: 0.9543 V
+Muestra 28/30 - Valor ADC: 997 | Voltaje: 0.9454 V
+Muestra 29/30 - Valor ADC: 985 | Voltaje: 0.9358 V
+Muestra 30/30 - Valor ADC: 995 | Voltaje: 0.9438 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 1009.13 | Voltaje = 0.9552 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 8 cm
+
+========================================
+Midiendo nivel: 8 cm
+========================================
+Muestra 1/30 - Valor ADC: 994 | Voltaje: 0.9430 V
+Muestra 2/30 - Valor ADC: 990 | Voltaje: 0.9398 V
+Muestra 3/30 - Valor ADC: 1037 | Voltaje: 0.9777 V
+Muestra 4/30 - Valor ADC: 1031 | Voltaje: 0.9728 V
+Muestra 5/30 - Valor ADC: 1013 | Voltaje: 0.9583 V
+Muestra 6/30 - Valor ADC: 1018 | Voltaje: 0.9624 V
+Muestra 7/30 - Valor ADC: 1035 | Voltaje: 0.9761 V
+Muestra 8/30 - Valor ADC: 1040 | Voltaje: 0.9801 V
+Muestra 9/30 - Valor ADC: 1038 | Voltaje: 0.9785 V
+Muestra 10/30 - Valor ADC: 1069 | Voltaje: 1.0035 V
+Muestra 11/30 - Valor ADC: 1042 | Voltaje: 0.9817 V
+Muestra 12/30 - Valor ADC: 1040 | Voltaje: 0.9801 V
+Muestra 13/30 - Valor ADC: 1055 | Voltaje: 0.9922 V
+Muestra 14/30 - Valor ADC: 1046 | Voltaje: 0.9849 V
+Muestra 15/30 - Valor ADC: 1035 | Voltaje: 0.9761 V
+Muestra 16/30 - Valor ADC: 1053 | Voltaje: 0.9906 V
+Muestra 17/30 - Valor ADC: 1053 | Voltaje: 0.9906 V
+Muestra 18/30 - Valor ADC: 1040 | Voltaje: 0.9801 V
+Muestra 19/30 - Valor ADC: 1059 | Voltaje: 0.9954 V
+Muestra 20/30 - Valor ADC: 1069 | Voltaje: 1.0035 V
+Muestra 21/30 - Valor ADC: 1023 | Voltaje: 0.9664 V
+Muestra 22/30 - Valor ADC: 1051 | Voltaje: 0.9890 V
+Muestra 23/30 - Valor ADC: 999 | Voltaje: 0.9471 V
+Muestra 24/30 - Valor ADC: 1045 | Voltaje: 0.9841 V
+Muestra 25/30 - Valor ADC: 1055 | Voltaje: 0.9922 V
+Muestra 26/30 - Valor ADC: 1054 | Voltaje: 0.9914 V
+Muestra 27/30 - Valor ADC: 1022 | Voltaje: 0.9656 V
+Muestra 28/30 - Valor ADC: 1060 | Voltaje: 0.9962 V
+Muestra 29/30 - Valor ADC: 1063 | Voltaje: 0.9986 V
+Muestra 30/30 - Valor ADC: 1056 | Voltaje: 0.9930 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 1039.50 | Voltaje = 0.9797 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 7 cm
+                                                                =======================================
+Midiendo nivel: 7 cm
+========================================
+Muestra 1/30 - Valor ADC: 1009 | Voltaje: 0.9551 V
+Muestra 2/30 - Valor ADC: 978 | Voltaje: 0.9301 V
+Muestra 3/30 - Valor ADC: 989 | Voltaje: 0.9390 V
+Muestra 4/30 - Valor ADC: 979 | Voltaje: 0.9309 V
+Muestra 5/30 - Valor ADC: 1001 | Voltaje: 0.9487 V
+Muestra 6/30 - Valor ADC: 1001 | Voltaje: 0.9487 V
+Muestra 7/30 - Valor ADC: 987 | Voltaje: 0.9374 V
+Muestra 8/30 - Valor ADC: 1011 | Voltaje: 0.9567 V
+Muestra 9/30 - Valor ADC: 1008 | Voltaje: 0.9543 V
+Muestra 10/30 - Valor ADC: 1023 | Voltaje: 0.9664 V
+Muestra 11/30 - Valor ADC: 1011 | Voltaje: 0.9567 V
+Muestra 12/30 - Valor ADC: 1007 | Voltaje: 0.9535 V
+Muestra 13/30 - Valor ADC: 1037 | Voltaje: 0.9777 V
+Muestra 14/30 - Valor ADC: 1019 | Voltaje: 0.9632 V
+Muestra 15/30 - Valor ADC: 1008 | Voltaje: 0.9543 V
+Muestra 16/30 - Valor ADC: 1036 | Voltaje: 0.9769 V
+Muestra 17/30 - Valor ADC: 1033 | Voltaje: 0.9745 V
+Muestra 18/30 - Valor ADC: 1020 | Voltaje: 0.9640 V
+Muestra 19/30 - Valor ADC: 1035 | Voltaje: 0.9761 V
+Muestra 20/30 - Valor ADC: 1013 | Voltaje: 0.9583 V
+Muestra 21/30 - Valor ADC: 1011 | Voltaje: 0.9567 V
+Muestra 22/30 - Valor ADC: 1005 | Voltaje: 0.9519 V
+Muestra 23/30 - Valor ADC: 1008 | Voltaje: 0.9543 V
+Muestra 24/30 - Valor ADC: 987 | Voltaje: 0.9374 V
+Muestra 25/30 - Valor ADC: 991 | Voltaje: 0.9406 V
+Muestra 26/30 - Valor ADC: 1023 | Voltaje: 0.9664 V
+Muestra 27/30 - Valor ADC: 1004 | Voltaje: 0.9511 V
+Muestra 28/30 - Valor ADC: 996 | Voltaje: 0.9446 V
+Muestra 29/30 - Valor ADC: 1009 | Voltaje: 0.9551 V
+Muestra 30/30 - Valor ADC: 1008 | Voltaje: 0.9543 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 1008.23 | Voltaje = 0.9545 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 6 cm
+
+========================================
+Midiendo nivel: 6 cm
+========================================
+Muestra 1/30 - Valor ADC: 959 | Voltaje: 0.9148 V
+Muestra 2/30 - Valor ADC: 965 | Voltaje: 0.9197 V
+Muestra 3/30 - Valor ADC: 951 | Voltaje: 0.9084 V
+Muestra 4/30 - Valor ADC: 933 | Voltaje: 0.8939 V
+Muestra 5/30 - Valor ADC: 962 | Voltaje: 0.9172 V
+Muestra 6/30 - Valor ADC: 977 | Voltaje: 0.9293 V
+Muestra 7/30 - Valor ADC: 953 | Voltaje: 0.9100 V
+Muestra 8/30 - Valor ADC: 972 | Voltaje: 0.9253 V
+Muestra 9/30 - Valor ADC: 968 | Voltaje: 0.9221 V
+Muestra 10/30 - Valor ADC: 983 | Voltaje: 0.9342 V
+Muestra 11/30 - Valor ADC: 966 | Voltaje: 0.9205 V
+Muestra 12/30 - Valor ADC: 958 | Voltaje: 0.9140 V
+Muestra 13/30 - Valor ADC: 975 | Voltaje: 0.9277 V
+Muestra 14/30 - Valor ADC: 960 | Voltaje: 0.9156 V
+Muestra 15/30 - Valor ADC: 970 | Voltaje: 0.9237 V
+Muestra 16/30 - Valor ADC: 927 | Voltaje: 0.8890 V
+Muestra 17/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 18/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 19/30 - Valor ADC: 952 | Voltaje: 0.9092 V
+Muestra 20/30 - Valor ADC: 965 | Voltaje: 0.9197 V
+Muestra 21/30 - Valor ADC: 962 | Voltaje: 0.9172 V
+Muestra 22/30 - Valor ADC: 951 | Voltaje: 0.9084 V
+Muestra 23/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 24/30 - Valor ADC: 976 | Voltaje: 0.9285 V
+Muestra 25/30 - Valor ADC: 954 | Voltaje: 0.9108 V
+Muestra 26/30 - Valor ADC: 931 | Voltaje: 0.8923 V
+Muestra 27/30 - Valor ADC: 963 | Voltaje: 0.9180 V
+Muestra 28/30 - Valor ADC: 961 | Voltaje: 0.9164 V
+Muestra 29/30 - Valor ADC: 976 | Voltaje: 0.9285 V
+Muestra 30/30 - Valor ADC: 953 | Voltaje: 0.9100 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 958.50 | Voltaje = 0.9144 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 5 cm
+
+========================================
+Midiendo nivel: 5 cm
+========================================
+Muestra 1/30 - Valor ADC: 929 | Voltaje: 0.8906 V
+Muestra 2/30 - Valor ADC: 933 | Voltaje: 0.8939 V
+Muestra 3/30 - Valor ADC: 917 | Voltaje: 0.8810 V
+Muestra 4/30 - Valor ADC: 923 | Voltaje: 0.8858 V
+Muestra 5/30 - Valor ADC: 918 | Voltaje: 0.8818 V
+Muestra 6/30 - Valor ADC: 942 | Voltaje: 0.9011 V
+Muestra 7/30 - Valor ADC: 911 | Voltaje: 0.8761 V
+Muestra 8/30 - Valor ADC: 906 | Voltaje: 0.8721 V
+Muestra 9/30 - Valor ADC: 900 | Voltaje: 0.8673 V
+Muestra 10/30 - Valor ADC: 902 | Voltaje: 0.8689 V
+Muestra 11/30 - Valor ADC: 926 | Voltaje: 0.8882 V
+Muestra 12/30 - Valor ADC: 938 | Voltaje: 0.8979 V
+Muestra 13/30 - Valor ADC: 938 | Voltaje: 0.8979 V
+Muestra 14/30 - Valor ADC: 955 | Voltaje: 0.9116 V
+Muestra 15/30 - Valor ADC: 912 | Voltaje: 0.8769 V
+Muestra 16/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 17/30 - Valor ADC: 944 | Voltaje: 0.9027 V
+Muestra 18/30 - Valor ADC: 911 | Voltaje: 0.8761 V
+Muestra 19/30 - Valor ADC: 918 | Voltaje: 0.8818 V
+Muestra 20/30 - Valor ADC: 929 | Voltaje: 0.8906 V
+Muestra 21/30 - Valor ADC: 911 | Voltaje: 0.8761 V
+Muestra 22/30 - Valor ADC: 902 | Voltaje: 0.8689 V
+Muestra 23/30 - Valor ADC: 919 | Voltaje: 0.8826 V
+Muestra 24/30 - Valor ADC: 885 | Voltaje: 0.8552 V
+Muestra 25/30 - Valor ADC: 942 | Voltaje: 0.9011 V
+Muestra 26/30 - Valor ADC: 925 | Voltaje: 0.8874 V
+Muestra 27/30 - Valor ADC: 911 | Voltaje: 0.8761 V
+Muestra 28/30 - Valor ADC: 919 | Voltaje: 0.8826 V
+Muestra 29/30 - Valor ADC: 922 | Voltaje: 0.8850 V
+Muestra 30/30 - Valor ADC: 914 | Voltaje: 0.8786 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 921.53 | Voltaje = 0.8846 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 4 cm
+
+========================================
+Midiendo nivel: 4 cm
+========================================
+Muestra 1/30 - Valor ADC: 874 | Voltaje: 0.8463 V
+Muestra 2/30 - Valor ADC: 881 | Voltaje: 0.8520 V
+Muestra 3/30 - Valor ADC: 881 | Voltaje: 0.8520 V
+Muestra 4/30 - Valor ADC: 889 | Voltaje: 0.8584 V
+Muestra 5/30 - Valor ADC: 876 | Voltaje: 0.8479 V
+Muestra 6/30 - Valor ADC: 879 | Voltaje: 0.8504 V
+Muestra 7/30 - Valor ADC: 881 | Voltaje: 0.8520 V
+Muestra 8/30 - Valor ADC: 881 | Voltaje: 0.8520 V
+Muestra 9/30 - Valor ADC: 838 | Voltaje: 0.8173 V
+Muestra 10/30 - Valor ADC: 895 | Voltaje: 0.8632 V
+Muestra 11/30 - Valor ADC: 847 | Voltaje: 0.8246 V
+Muestra 12/30 - Valor ADC: 881 | Voltaje: 0.8520 V
+Muestra 13/30 - Valor ADC: 880 | Voltaje: 0.8512 V
+Muestra 14/30 - Valor ADC: 894 | Voltaje: 0.8624 V
+Muestra 15/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 16/30 - Valor ADC: 880 | Voltaje: 0.8512 V
+Muestra 17/30 - Valor ADC: 893 | Voltaje: 0.8616 V
+Muestra 18/30 - Valor ADC: 841 | Voltaje: 0.8197 V
+Muestra 19/30 - Valor ADC: 871 | Voltaje: 0.8439 V
+Muestra 20/30 - Valor ADC: 877 | Voltaje: 0.8487 V
+Muestra 21/30 - Valor ADC: 887 | Voltaje: 0.8568 V
+Muestra 22/30 - Valor ADC: 839 | Voltaje: 0.8181 V
+Muestra 23/30 - Valor ADC: 880 | Voltaje: 0.8512 V
+Muestra 24/30 - Valor ADC: 866 | Voltaje: 0.8399 V
+Muestra 25/30 - Valor ADC: 858 | Voltaje: 0.8334 V
+Muestra 26/30 - Valor ADC: 896 | Voltaje: 0.8641 V
+Muestra 27/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 28/30 - Valor ADC: 853 | Voltaje: 0.8294 V
+Muestra 29/30 - Valor ADC: 896 | Voltaje: 0.8641 V
+Muestra 30/30 - Valor ADC: 865 | Voltaje: 0.8391 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 872.50 | Voltaje = 0.8451 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 3 cm
+
+========================================
+Midiendo nivel: 3 cm
+========================================
+Muestra 1/30 - Valor ADC: 857 | Voltaje: 0.8326 V
+Muestra 2/30 - Valor ADC: 848 | Voltaje: 0.8254 V
+Muestra 3/30 - Valor ADC: 823 | Voltaje: 0.8052 V
+Muestra 4/30 - Valor ADC: 838 | Voltaje: 0.8173 V
+Muestra 5/30 - Valor ADC: 835 | Voltaje: 0.8149 V
+Muestra 6/30 - Valor ADC: 818 | Voltaje: 0.8012 V
+Muestra 7/30 - Valor ADC: 812 | Voltaje: 0.7964 V
+Muestra 8/30 - Valor ADC: 871 | Voltaje: 0.8439 V
+Muestra 9/30 - Valor ADC: 801 | Voltaje: 0.7875 V
+Muestra 10/30 - Valor ADC: 823 | Voltaje: 0.8052 V
+Muestra 11/30 - Valor ADC: 816 | Voltaje: 0.7996 V
+Muestra 12/30 - Valor ADC: 821 | Voltaje: 0.8036 V
+Muestra 13/30 - Valor ADC: 853 | Voltaje: 0.8294 V
+Muestra 14/30 - Valor ADC: 816 | Voltaje: 0.7996 V
+Muestra 15/30 - Valor ADC: 832 | Voltaje: 0.8125 V
+Muestra 16/30 - Valor ADC: 834 | Voltaje: 0.8141 V
+Muestra 17/30 - Valor ADC: 831 | Voltaje: 0.8117 V
+Muestra 18/30 - Valor ADC: 799 | Voltaje: 0.7859 V
+Muestra 19/30 - Valor ADC: 837 | Voltaje: 0.8165 V
+Muestra 20/30 - Valor ADC: 835 | Voltaje: 0.8149 V
+Muestra 21/30 - Valor ADC: 835 | Voltaje: 0.8149 V
+Muestra 22/30 - Valor ADC: 823 | Voltaje: 0.8052 V
+Muestra 23/30 - Valor ADC: 835 | Voltaje: 0.8149 V
+Muestra 24/30 - Valor ADC: 831 | Voltaje: 0.8117 V
+Muestra 25/30 - Valor ADC: 835 | Voltaje: 0.8149 V
+Muestra 26/30 - Valor ADC: 861 | Voltaje: 0.8358 V
+Muestra 27/30 - Valor ADC: 847 | Voltaje: 0.8246 V
+Muestra 28/30 - Valor ADC: 835 | Voltaje: 0.8149 V
+Muestra 29/30 - Valor ADC: 839 | Voltaje: 0.8181 V
+Muestra 30/30 - Valor ADC: 793 | Voltaje: 0.7810 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 831.13 | Voltaje = 0.8118 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 2 cm
+
+========================================
+Midiendo nivel: 2 cm
+========================================
+Muestra 1/30 - Valor ADC: 777 | Voltaje: 0.7682 V
+Muestra 2/30 - Valor ADC: 779 | Voltaje: 0.7698 V
+Muestra 3/30 - Valor ADC: 834 | Voltaje: 0.8141 V
+Muestra 4/30 - Valor ADC: 779 | Voltaje: 0.7698 V
+Muestra 5/30 - Valor ADC: 758 | Voltaje: 0.7528 V
+Muestra 6/30 - Valor ADC: 768 | Voltaje: 0.7609 V
+Muestra 7/30 - Valor ADC: 793 | Voltaje: 0.7810 V
+Muestra 8/30 - Valor ADC: 797 | Voltaje: 0.7843 V
+Muestra 9/30 - Valor ADC: 770 | Voltaje: 0.7625 V
+Muestra 10/30 - Valor ADC: 777 | Voltaje: 0.7682 V
+Muestra 11/30 - Valor ADC: 801 | Voltaje: 0.7875 V
+Muestra 12/30 - Valor ADC: 796 | Voltaje: 0.7835 V
+Muestra 13/30 - Valor ADC: 771 | Voltaje: 0.7633 V
+Muestra 14/30 - Valor ADC: 783 | Voltaje: 0.7730 V
+Muestra 15/30 - Valor ADC: 774 | Voltaje: 0.7657 V
+Muestra 16/30 - Valor ADC: 775 | Voltaje: 0.7665 V
+Muestra 17/30 - Valor ADC: 826 | Voltaje: 0.8076 V
+Muestra 18/30 - Valor ADC: 778 | Voltaje: 0.7690 V
+Muestra 19/30 - Valor ADC: 769 | Voltaje: 0.7617 V
+Muestra 20/30 - Valor ADC: 806 | Voltaje: 0.7915 V
+Muestra 21/30 - Valor ADC: 815 | Voltaje: 0.7988 V
+Muestra 22/30 - Valor ADC: 785 | Voltaje: 0.7746 V
+Muestra 23/30 - Valor ADC: 797 | Voltaje: 0.7843 V
+Muestra 24/30 - Valor ADC: 779 | Voltaje: 0.7698 V
+Muestra 25/30 - Valor ADC: 783 | Voltaje: 0.7730 V
+Muestra 26/30 - Valor ADC: 800 | Voltaje: 0.7867 V
+Muestra 27/30 - Valor ADC: 806 | Voltaje: 0.7915 V
+Muestra 28/30 - Valor ADC: 781 | Voltaje: 0.7714 V
+Muestra 29/30 - Valor ADC: 767 | Voltaje: 0.7601 V
+Muestra 30/30 - Valor ADC: 807 | Voltaje: 0.7923 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 787.70 | Voltaje = 0.7768 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 1 cm
+
+========================================
+Midiendo nivel: 1 cm
+========================================
+Muestra 1/30 - Valor ADC: 746 | Voltaje: 0.7432 V
+Muestra 2/30 - Valor ADC: 761 | Voltaje: 0.7553 V
+Muestra 3/30 - Valor ADC: 739 | Voltaje: 0.7375 V
+Muestra 4/30 - Valor ADC: 733 | Voltaje: 0.7327 V
+Muestra 5/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 6/30 - Valor ADC: 742 | Voltaje: 0.7399 V
+Muestra 7/30 - Valor ADC: 767 | Voltaje: 0.7601 V
+Muestra 8/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 9/30 - Valor ADC: 726 | Voltaje: 0.7271 V
+Muestra 10/30 - Valor ADC: 733 | Voltaje: 0.7327 V
+Muestra 11/30 - Valor ADC: 751 | Voltaje: 0.7472 V
+Muestra 12/30 - Valor ADC: 722 | Voltaje: 0.7238 V
+Muestra 13/30 - Valor ADC: 735 | Voltaje: 0.7343 V
+Muestra 14/30 - Valor ADC: 736 | Voltaje: 0.7351 V
+Muestra 15/30 - Valor ADC: 712 | Voltaje: 0.7158 V
+Muestra 16/30 - Valor ADC: 750 | Voltaje: 0.7464 V
+Muestra 17/30 - Valor ADC: 758 | Voltaje: 0.7528 V
+Muestra 18/30 - Valor ADC: 727 | Voltaje: 0.7279 V
+Muestra 19/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 20/30 - Valor ADC: 739 | Voltaje: 0.7375 V
+Muestra 21/30 - Valor ADC: 720 | Voltaje: 0.7222 V
+Muestra 22/30 - Valor ADC: 706 | Voltaje: 0.7109 V
+Muestra 23/30 - Valor ADC: 770 | Voltaje: 0.7625 V
+Muestra 24/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 25/30 - Valor ADC: 741 | Voltaje: 0.7391 V
+Muestra 26/30 - Valor ADC: 750 | Voltaje: 0.7464 V
+Muestra 27/30 - Valor ADC: 731 | Voltaje: 0.7311 V
+Muestra 28/30 - Valor ADC: 730 | Voltaje: 0.7303 V
+Muestra 29/30 - Valor ADC: 730 | Voltaje: 0.7303 V
+Muestra 30/30 - Valor ADC: 723 | Voltaje: 0.7246 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 739.53 | Voltaje = 0.7380 V
+----------------------------------------
+
+Presiona cualquier tecla para medir nivel 0 cm
+
+========================================
+Midiendo nivel: 0 cm
+========================================
+Muestra 1/30 - Valor ADC: 716 | Voltaje: 0.7190 V
+Muestra 2/30 - Valor ADC: 765 | Voltaje: 0.7585 V
+Muestra 3/30 - Valor ADC: 751 | Voltaje: 0.7472 V
+Muestra 4/30 - Valor ADC: 747 | Voltaje: 0.7440 V
+Muestra 5/30 - Valor ADC: 720 | Voltaje: 0.7222 V
+Muestra 6/30 - Valor ADC: 724 | Voltaje: 0.7254 V
+Muestra 7/30 - Valor ADC: 726 | Voltaje: 0.7271 V
+Muestra 8/30 - Valor ADC: 725 | Voltaje: 0.7262 V
+Muestra 9/30 - Valor ADC: 707 | Voltaje: 0.7117 V
+Muestra 10/30 - Valor ADC: 721 | Voltaje: 0.7230 V
+Muestra 11/30 - Valor ADC: 733 | Voltaje: 0.7327 V
+Muestra 12/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 13/30 - Valor ADC: 752 | Voltaje: 0.7480 V
+Muestra 14/30 - Valor ADC: 705 | Voltaje: 0.7101 V
+Muestra 15/30 - Valor ADC: 753 | Voltaje: 0.7488 V
+Muestra 16/30 - Valor ADC: 731 | Voltaje: 0.7311 V
+Muestra 17/30 - Valor ADC: 741 | Voltaje: 0.7391 V
+Muestra 18/30 - Valor ADC: 727 | Voltaje: 0.7279 V
+Muestra 19/30 - Valor ADC: 741 | Voltaje: 0.7391 V
+Muestra 20/30 - Valor ADC: 736 | Voltaje: 0.7351 V
+Muestra 21/30 - Valor ADC: 759 | Voltaje: 0.7536 V
+Muestra 22/30 - Valor ADC: 734 | Voltaje: 0.7335 V
+Muestra 23/30 - Valor ADC: 765 | Voltaje: 0.7585 V
+Muestra 24/30 - Valor ADC: 735 | Voltaje: 0.7343 V
+Muestra 25/30 - Valor ADC: 733 | Voltaje: 0.7327 V
+Muestra 26/30 - Valor ADC: 757 | Voltaje: 0.7520 V
+Muestra 27/30 - Valor ADC: 722 | Voltaje: 0.7238 V
+Muestra 28/30 - Valor ADC: 743 | Voltaje: 0.7408 V
+Muestra 29/30 - Valor ADC: 747 | Voltaje: 0.7440 V
+Muestra 30/30 - Valor ADC: 705 | Voltaje: 0.7101 V
+----------------------------------------
+PROMEDIO - Nivel 0 cm: ADC = 735.77 | Voltaje = 0.7349 V
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
