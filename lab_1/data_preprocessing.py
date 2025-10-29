@@ -2,8 +2,8 @@ from pathlib import Path
 import re
 import pandas as pd
 
-in_path = Path(r"c:\sensores-y-actuadores\lab_1\datos.txt")
-out_path = Path(r"c:\sensores-y-actuadores\lab_1\datos.csv")
+in_path = Path(r"c:\sensores-y-actuadores\lab_1\data.txt")
+out_path = Path(r"c:\sensores-y-actuadores\lab_1\data.csv")
 
 # Robust pattern: tolerate typos (e.g., "stra 28/30") and varying whitespace
 pattern = re.compile(
