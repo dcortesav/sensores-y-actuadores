@@ -1,2 +1,2 @@
 # sensores-y-actuadores
-Este repositorio contiene los diferentes proyectos y laboratorios desarrollados durante la asignatura de sensores y actuadores de la Universidad Nacional de Colombia
+This repository contains the different projects and laboratories developed during the sensors and actuators course at the National University of Colombia.
